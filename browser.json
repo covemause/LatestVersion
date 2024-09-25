@@ -1,6 +1,4 @@
 {
-  "userId": 2,
-  "id": 1,
-  "title": "delectus aut autem",
-  "completed": false
+  { "Name": "Google Chrome", "Version" : "128.0.6613.138" },
+  { "Name": "Microsoft Edge", "Version" : "129.0.2792.52" }
 }
